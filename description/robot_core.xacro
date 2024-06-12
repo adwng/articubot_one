@@ -21,6 +21,10 @@
         <color rgba='0 0 0 1'/>
     </material>
 
+    <material name="red">
+        <color rgba='1 0 0 1'/>
+    </material>
+
      <!-- Base link -->
 
     <link name="base_link">
@@ -50,7 +54,7 @@
             </geometry>
             <material name="white"/>
         </collision>
-        <xacro:inertial_box mass="0.5" x="0.3" y="0.3" z="0.15">
+        <xacro:inertial_box mass="1.5" x="0.3" y="0.3" z="0.15">
             <origin xyz= "0.15 0.0 0.075" rpy="0.0 0.0 0.0"/>
         </xacro:inertial_box>
     </link>
