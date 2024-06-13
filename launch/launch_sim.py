@@ -17,7 +17,7 @@ def generate_launch_description():
 
      # Path to your custom world file
     world_prefix = get_package_share_directory(package_name)
-    world_file = os.path.join(world_prefix, 'worlds', "agriculture.world")
+    world_file = os.path.join(world_prefix, 'worlds', "obstacles.world")
     
     # Include the robot description launch file
     rsp = IncludeLaunchDescription(
