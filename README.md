@@ -13,5 +13,7 @@ RUN
 - LAUNCH NAVIGATION.PY TO START AUTONOMOUS NAVIGATION
 
 DEMO:
-(https://github.com/adwng/articubot_one/assets/146163893/3552bbc8-c196-44a8-a02d-71fe9e4f386b)
+
+
+https://github.com/adwng/articubot_one/assets/146163893/3552bbc8-c196-44a8-a02d-71fe9e4f386b
 
